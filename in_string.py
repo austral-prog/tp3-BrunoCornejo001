@@ -10,7 +10,7 @@ def check_vowels():
     print("Contiene e:" + " " + str(contiene_e))
     print("Contiene i:" + " " + str(contiene_i))
     print("Contiene o:" + " " + str(contiene_o))
-    print("Contiene u:" + "" + str(contiene_u))
+    print("Contiene u:" + " " + str(contiene_u))
 check_vowels()
     # Código a implementar utilizando input.
 
